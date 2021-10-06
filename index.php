@@ -25,7 +25,7 @@
 /**
  * @return GenesisController
  */
-function controller1()
+function genesisController()
 {
     require_once('controllers/GenesisController.php');
     $controller = new GenesisController();
@@ -34,7 +34,7 @@ function controller1()
 
 switch($action) {
 		case 'genesis':
-			$controller = controller1();
+			$controller = genesisController();
             break;
 		case 'books':
 			require_once('controllers/BooksController.php');

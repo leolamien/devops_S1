@@ -38,6 +38,10 @@ h2 {font-size: 1.8em;}
 h3 {font-size: 1.2em;}
 h4 {font-size: 1em;}
 
+h2{
+	color: blue;
+	text-decoration: underline;
+}
 /* Listes */
 ul, ol {
 	margin: .75em 0 .75em 24px;

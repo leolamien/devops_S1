@@ -8,7 +8,7 @@
 			<p id="copyright">Mise en page d'après
 				<a href="http://www.alsacreations.com/tutoriels/">Alsacréations</a>
 			</p>
-            <p>Sienou Lamien stepahne </p>
+            <p>Sienou Lamien stepahne leonce  </p>
 		</div><!-- #pied -->
 	</div><!-- #global -->
 	</body>
